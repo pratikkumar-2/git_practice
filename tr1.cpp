@@ -7,6 +7,7 @@ int main() {
     cout<<"this is third version and doing it by myself"<<endl;
     cout<<"revising the commands"<<endl;
     cout<<"keep revising"<<endl;
+    cout<<"1.git init 2. git add filename 3.git commit -m"" 4. git push"<<endl;
 
     return 0;
 }
